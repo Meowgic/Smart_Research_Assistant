@@ -1,0 +1,34 @@
+
+*.pdf
+*.zip
+*.tar.gz
+*.7z
+
+
+download_log.log
+*.log
+
+
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.pytest_cache/
+
+rag_chatbot/
+env/
+venv/
+*.conda
+*.conda-lock
+.conda-env/
+
+.DS_Store  # Mac
+Thumbs.db  # Windows
+
+
+tmp/
+temp/
+*.tmp
+
+
+*.npy 

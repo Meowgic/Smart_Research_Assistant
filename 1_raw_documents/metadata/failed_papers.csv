@@ -1,0 +1,104 @@
+id,error,timestamp
+2512.21040v1,<urlopen error [WinError 10054] An existing connection was forcibly closed by the remote host>,2025-12-26T05:14:21.250148+00:00
+2512.17703v1,<urlopen error [WinError 10054] An existing connection was forcibly closed by the remote host>,2025-12-26T07:19:29.104784+00:00
+2512.12783v2,HTTP Error 404: Not Found,2025-12-26T12:25:47.645234+00:00
+2512.12783v2,HTTP Error 404: Not Found,2025-12-26T15:04:39.652989+00:00
+2512.10149v2,HTTP Error 404: Not Found,2025-12-26T16:42:11.959664+00:00
+2512.09142v2,HTTP Error 404: Not Found,2025-12-26T17:19:16.843652+00:00
+2512.09003v2,HTTP Error 404: Not Found,2025-12-26T17:47:24.387237+00:00
+2512.07984v3,HTTP Error 404: Not Found,2025-12-26T18:01:39.784654+00:00
+2512.06392v2,HTTP Error 404: Not Found,2025-12-26T18:57:00.232421+00:00
+2512.06181v2,HTTP Error 404: Not Found,2025-12-26T19:06:23.653876+00:00
+2512.04480v4,HTTP Error 404: Not Found,2025-12-26T19:51:44.240115+00:00
+2512.03449v2,HTTP Error 404: Not Found,2025-12-26T20:20:59.103319+00:00
+2511.22505v2,HTTP Error 404: Not Found,2025-12-26T22:34:48.964333+00:00
+2511.21908v2,HTTP Error 404: Not Found,2025-12-26T22:52:57.511579+00:00
+2511.21582v2,HTTP Error 404: Not Found,2025-12-26T22:58:30.000731+00:00
+2511.21251v2,HTTP Error 404: Not Found,2025-12-26T23:07:18.629263+00:00
+2511.21237v2,HTTP Error 404: Not Found,2025-12-26T23:07:39.027860+00:00
+2511.20540v1,HTTP Error 404: Not Found,2025-12-26T23:42:41.058720+00:00
+2511.18806v2,HTTP Error 404: Not Found,2025-12-27T00:48:37.887717+00:00
+2511.18214v2,HTTP Error 404: Not Found,2025-12-27T01:31:44.690060+00:00
+2511.17147v2,HTTP Error 404: Not Found,2025-12-27T02:26:57.237786+00:00
+2511.13542v2,HTTP Error 404: Not Found,2025-12-27T05:23:04.034304+00:00
+2511.13245v1,HTTP Error 404: Not Found,2025-12-27T05:37:08.232270+00:00
+2511.12963v2,HTTP Error 404: Not Found,2025-12-27T05:59:53.793382+00:00
+2511.12783v2,HTTP Error 404: Not Found,2025-12-27T06:13:00.726214+00:00
+2511.11177v3,HTTP Error 404: Not Found,2025-12-27T07:57:43.420565+00:00
+2511.10893v2,HTTP Error 404: Not Found,2025-12-27T08:31:51.123094+00:00
+2511.10482v1,HTTP Error 404: Not Found,2025-12-27T08:59:33.371157+00:00
+2511.10177v1,<urlopen error [WinError 10054] An existing connection was forcibly closed by the remote host>,2025-12-27T09:23:59.776695+00:00
+2511.10173v2,HTTP Error 404: Not Found,2025-12-27T09:24:08.984843+00:00
+2511.11739v1,<urlopen error [WinError 10054] An existing connection was forcibly closed by the remote host>,2025-12-27T09:24:16.252970+00:00
+2511.10148v1,<urlopen error [WinError 10054] An existing connection was forcibly closed by the remote host>,2025-12-27T09:26:04.096104+00:00
+2511.11736v1,<urlopen error [WinError 10054] An existing connection was forcibly closed by the remote host>,2025-12-27T09:27:40.324668+00:00
+2511.17562v1,<urlopen error [SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1016)>,2025-12-27T09:28:07.622801+00:00
+2511.09347v2,HTTP Error 404: Not Found,2025-12-27T10:08:05.050919+00:00
+2511.09575v2,HTTP Error 404: Not Found,2025-12-27T10:34:38.605860+00:00
+2511.08887v3,HTTP Error 404: Not Found,2025-12-27T10:40:04.718683+00:00
+2511.10687v2,HTTP Error 404: Not Found,2025-12-27T10:43:31.507067+00:00
+2511.08339v1,<urlopen error [WinError 10054] An existing connection was forcibly closed by the remote host>,2025-12-27T10:58:54.769139+00:00
+2511.08331v1,<urlopen error [WinError 10054] An existing connection was forcibly closed by the remote host>,2025-12-27T10:59:10.127828+00:00
+2511.08243v2,HTTP Error 404: Not Found,2025-12-27T11:05:17.775904+00:00
+2511.08151v2,HTTP Error 404: Not Found,2025-12-27T11:12:35.495031+00:00
+2511.05361v1,<urlopen error retrieval incomplete: got only 2775740 out of 3109473 bytes>,2025-12-28T00:55:07.271974+00:00
+2511.05108v1,<urlopen error retrieval incomplete: got only 893504 out of 1931274 bytes>,2025-12-28T01:08:27.861283+00:00
+2511.05038v2,<urlopen error retrieval incomplete: got only 52401900 out of 58527876 bytes>,2025-12-28T01:13:29.639191+00:00
+2511.05020v2,HTTP Error 404: Not Found,2025-12-28T01:14:00.192660+00:00
+2511.04970v1,<urlopen error retrieval incomplete: got only 11534336 out of 42529277 bytes>,2025-12-28T01:16:49.371893+00:00
+2511.05622v1,<urlopen error retrieval incomplete: got only 98304 out of 403790 bytes>,2025-12-28T01:21:48.909288+00:00
+2511.03632v1,Remote end closed connection without response,2025-12-28T02:18:19.135845+00:00
+2511.03482v1,<urlopen error retrieval incomplete: got only 28524544 out of 28725758 bytes>,2025-12-28T02:25:17.049604+00:00
+2511.03178v1,<urlopen error retrieval incomplete: got only 196608 out of 535383 bytes>,2025-12-28T02:41:06.678430+00:00
+2511.02657v1,<urlopen error [SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1016)>,2025-12-28T03:03:39.458054+00:00
+2511.02589v2,<urlopen error retrieval incomplete: got only 8268 out of 1025821 bytes>,2025-12-28T03:07:01.319248+00:00
+2511.02560v1,<urlopen error retrieval incomplete: got only 12566528 out of 25039846 bytes>,2025-12-28T03:08:40.643941+00:00
+2510.27428v1,<urlopen error retrieval incomplete: got only 7847936 out of 31304093 bytes>,2025-12-28T04:05:28.418440+00:00
+2510.27097v2,HTTP Error 404: Not Found,2025-12-28T04:23:44.655905+00:00
+2510.26898v2,HTTP Error 404: Not Found,2025-12-28T04:33:45.443117+00:00
+2510.26788v1,<urlopen error retrieval incomplete: got only 14435 out of 955680 bytes>,2025-12-28T04:38:49.941879+00:00
+2510.26474v1,<urlopen error retrieval incomplete: got only 8126464 out of 8170447 bytes>,2025-12-28T04:57:13.717976+00:00
+2510.26203v1,<urlopen error [WinError 10054] An existing connection was forcibly closed by the remote host>,2025-12-28T05:14:51.295275+00:00
+2510.26200v1,<urlopen error [WinError 10054] An existing connection was forcibly closed by the remote host>,2025-12-28T05:15:04.063645+00:00
+2510.26841v1,<urlopen error [WinError 10054] An existing connection was forcibly closed by the remote host>,2025-12-28T05:15:11.391689+00:00
+2510.26196v2,<urlopen error [WinError 10054] An existing connection was forcibly closed by the remote host>,2025-12-28T05:15:18.681191+00:00
+2510.26188v1,<urlopen error [WinError 10054] An existing connection was forcibly closed by the remote host>,2025-12-28T05:15:26.011927+00:00
+2510.26172v1,<urlopen error [WinError 10054] An existing connection was forcibly closed by the remote host>,2025-12-28T05:17:05.987933+00:00
+2510.26167v1,<urlopen error [WinError 10054] An existing connection was forcibly closed by the remote host>,2025-12-28T05:17:30.669791+00:00
+2510.26165v1,<urlopen error [WinError 10054] An existing connection was forcibly closed by the remote host>,2025-12-28T05:17:37.998988+00:00
+2510.26149v2,<urlopen error [WinError 10054] An existing connection was forcibly closed by the remote host>,2025-12-28T05:19:03.953708+00:00
+2510.26146v1,<urlopen error [WinError 10054] An existing connection was forcibly closed by the remote host>,2025-12-28T05:19:19.536633+00:00
+2510.26144v1,<urlopen error [WinError 10054] An existing connection was forcibly closed by the remote host>,2025-12-28T05:19:26.949602+00:00
+2510.26061v1,<urlopen error retrieval incomplete: got only 17914 out of 910486 bytes>,2025-12-28T05:23:55.277673+00:00
+2510.26023v2,<urlopen error retrieval incomplete: got only 4194304 out of 5179501 bytes>,2025-12-28T05:25:36.334755+00:00
+2510.25134v1,<urlopen error retrieval incomplete: got only 31404224 out of 48332396 bytes>,2025-12-28T06:05:42.281314+00:00
+2510.25067v2,HTTP Error 404: Not Found,2025-12-28T06:09:22.122028+00:00
+2510.24988v1,<urlopen error retrieval incomplete: got only 524288 out of 1558036 bytes>,2025-12-28T06:12:20.518582+00:00
+2510.24657v2,<urlopen error retrieval incomplete: got only 6488064 out of 50652021 bytes>,2025-12-28T06:22:24.276629+00:00
+2510.24383v1,<urlopen error retrieval incomplete: got only 0 out of 1776759 bytes>,2025-12-28T06:35:41.688969+00:00
+2510.24261v1,<urlopen error retrieval incomplete: got only 2260992 out of 14583690 bytes>,2025-12-28T06:40:43.838250+00:00
+2510.26815v2,HTTP Error 404: Not Found,2025-12-28T06:51:52.984347+00:00
+2510.24804v2,<urlopen error retrieval incomplete: got only 9437184 out of 16633761 bytes>,2025-12-28T06:57:25.240500+00:00
+2510.23929v1,<urlopen error retrieval incomplete: got only 29438 out of 2378365 bytes>,2025-12-28T07:00:46.538749+00:00
+2510.23880v2,<urlopen error retrieval incomplete: got only 59768832 out of 84688317 bytes>,2025-12-28T07:04:06.553975+00:00
+2510.23594v4,HTTP Error 404: Not Found,2025-12-28T07:10:59.031282+00:00
+2510.23414v1,<urlopen error retrieval incomplete: got only 6291456 out of 21632451 bytes>,2025-12-28T07:22:29.021645+00:00
+2510.23167v1,<urlopen error retrieval incomplete: got only 1048576 out of 6666626 bytes>,2025-12-28T07:34:10.294203+00:00
+2510.22337v1,<urlopen error retrieval incomplete: got only 6253164 out of 22816800 bytes>,2025-12-28T08:22:37.663703+00:00
+2510.22070v1,<urlopen error retrieval incomplete: got only 9273344 out of 40054520 bytes>,2025-12-28T08:44:27.344395+00:00
+2510.22050v1,<urlopen error [WinError 10054] An existing connection was forcibly closed by the remote host>,2025-12-28T08:46:07.762095+00:00
+2510.21945v3,<urlopen error retrieval incomplete: got only 3375104 out of 5230560 bytes>,2025-12-28T08:57:41.763152+00:00
+2510.21696v1,<urlopen error retrieval incomplete: got only 6684672 out of 42254855 bytes>,2025-12-28T09:00:59.365961+00:00
+2510.21441v1,<urlopen error retrieval incomplete: got only 15158 out of 3410834 bytes>,2025-12-28T09:19:20.578288+00:00
+2510.21276v1,<urlopen error retrieval incomplete: got only 1179648 out of 1879573 bytes>,2025-12-28T09:29:22.612114+00:00
+2510.21000v1,<urlopen error retrieval incomplete: got only 13582336 out of 49021521 bytes>,2025-12-28T09:51:03.978154+00:00
+2510.20813v1,<urlopen error retrieval incomplete: got only 3897286 out of 16427719 bytes>,2025-12-28T09:57:44.474294+00:00
+2510.20602v1,Remote end closed connection without response,2025-12-28T10:12:48.389907+00:00
+2510.18825v1,<urlopen error retrieval incomplete: got only 1376256 out of 4718834 bytes>,2025-12-28T11:57:59.040085+00:00
+2510.18554v2,<urlopen error retrieval incomplete: got only 15158 out of 2335211 bytes>,2025-12-28T12:13:01.030777+00:00
+2510.18551v2,HTTP Error 404: Not Found,2025-12-28T12:13:32.323737+00:00
+2510.21809v1,<urlopen error retrieval incomplete: got only 13156352 out of 20756062 bytes>,2025-12-28T12:27:26.016301+00:00
+2510.18433v1,<urlopen error retrieval incomplete: got only 22108861 out of 22125866 bytes>,2025-12-28T12:41:50.780571+00:00
+2510.21808v1,<urlopen error retrieval incomplete: got only 17481728 out of 17496680 bytes>,2025-12-28T12:50:51.966890+00:00
+2510.18425v1,<urlopen error retrieval incomplete: got only 5191168 out of 30142290 bytes>,2025-12-28T12:51:34.270465+00:00
+2510.21807v1,<urlopen error retrieval incomplete: got only 18415212 out of 18424413 bytes>,2025-12-28T12:59:42.225250+00:00
